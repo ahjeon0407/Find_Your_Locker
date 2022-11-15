@@ -61,7 +61,7 @@
                 android:layout_weight="1"
                 android:text="TextView"
                 android:textSize="10dp"
-                android:textAlignment="#F23232" />
+                android:textAlignment="textEnd" />
         </LinearLayout>
 
         <LinearLayout
@@ -136,6 +136,7 @@
                 android:textSize="10dp"
                 android:textAlignment="textEnd"
                 android:textColor="#F23232"/>
+
         </LinearLayout>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
