@@ -42,7 +42,6 @@
                     android:background="@drawable/button_round"
                     android:text="물품보관함 위치\n지도"
                     android:textAlignment="textEnd"
-                    android:textIsSelectable="true"
                     style="?android:attr/borderlessButtonStyle"
                     android:elevation="10dp" />
 
@@ -55,7 +54,6 @@
                     android:background="@drawable/button_round"
                     android:text="보관하기"
                     android:textAlignment="textEnd"
-                    android:textIsSelectable="true"
                     style="?android:attr/borderlessButtonStyle"
                     android:elevation="10dp" />
             </LinearLayout>
